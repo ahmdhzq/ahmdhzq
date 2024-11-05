@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmadha24700995" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadha24700995?logo=twitter&style=for-the-badge" alt="ahmadha24700995" /></a> </p>
 
-- 🔭 I’m currently working on **PeTIK II Jombang**
+- 🔭 I’m currently working as a **Freelance Web Developer**
 
 - 🌱 I’m currently learning **Next Js**
 
