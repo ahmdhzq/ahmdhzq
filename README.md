@@ -81,16 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ahmdhzq&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmdhzq&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmdhzq&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ## 🎯 Current Goals:
 
 - 🚀 **2024 Goals:** Master Next.js and TypeScript
@@ -98,24 +88,6 @@
 - 🎯 **Focus:** Building responsive and performant web applications
 - 🌱 **Growing:** My skills in full-stack development
 - 💡 **Exploring:** Modern frontend frameworks and tools
-
-## 💡 Featured Projects:
-
-<div align="center">
-
-### 🌟 [Portfolio Website](https://ahmadhaziq.vercel.app/)
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS  
-My personal portfolio showcasing projects and skills with modern design and smooth animations.
-
-### 🌟 React Projects Collection
-**Tech Stack:** React, JavaScript, CSS  
-A collection of interactive React applications demonstrating various frontend concepts and best practices.
-
-### 🌟 Mobile Development Projects
-**Tech Stack:** Flutter, Dart, Kotlin  
-Cross-platform mobile applications with clean UI/UX and efficient performance.
-
-</div>
 
 ## 🔥 Contribution Activity:
 
@@ -129,11 +101,6 @@ Cross-platform mobile applications with clean UI/UX and efficient performance.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-## 📊 Weekly Development Breakdown:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmdhzq&theme=tokyonight&layout=compact" alt="Wakatime Stats" />
-</div>
 
 ## 📫 Let's Connect & Collaborate:
 
